@@ -9,8 +9,9 @@ always leave, but you have to say why.
 
 ## Download
 
-**[Download the latest version](https://github.com/newf-ux/soloist-download/releases/latest)**,
-then click **Soloist.zip** under "Assets".
+**[Download Soloist](https://github.com/newf-ux/soloist-download/releases/latest/download/Soloist.zip)** (Mac, about 1 MB)
+
+[What's new](https://github.com/newf-ux/soloist-download/releases)
 
 ## Install
 
